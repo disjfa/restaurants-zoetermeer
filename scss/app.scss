@@ -1,0 +1,29 @@
+$navbar-brand-padding-y: 0;
+$font-size-base: 1.2rem;
+$blue: #3498db;
+
+@import "~bootstrap/scss/bootstrap";
+@import "~prism-themes/themes/prism-darcula.css";
+@import "~@fortawesome/fontawesome-free/scss/fontawesome";
+@import "~@fortawesome/fontawesome-free/scss/solid";
+@import "~@fortawesome/fontawesome-free/scss/brands";
+@import "~ryoko-headers/scss/ryoko";
+@import "~leaflet/dist/leaflet.css";
+
+.img-contain {
+  background-position: center center;
+  background-size: contain;
+  background-repeat: no-repeat;
+}
+
+.map {
+  height: 70vh;
+}
+
+#shareAPIPolyfill-backdrop {
+  z-index: 1000;
+}
+
+#shareAPIPolyfill-container {
+  z-index: 1001;
+}

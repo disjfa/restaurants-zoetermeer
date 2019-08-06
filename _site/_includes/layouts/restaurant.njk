@@ -1,0 +1,46 @@
+<!doctype html>
+<html lang="nl">
+<head>
+    {% include 'components/head.njk' %}
+<body>
+{% include 'components/navbar.njk' %}
+<div class="container">
+    {% if closed %}
+        <div class="alert alert-warning">
+            Dit restaurant is gesloten.
+        </div>
+    {% endif %}
+    <div class="row">
+        <div class="col-12 col-lg-5 py-3">
+            {% if image %}
+                <img src="{{ image | url }}" alt="{{ title }}" class="img-fluid">
+            {% endif %}
+            <h1>{{ title }}</h1>
+            <div>
+                {% from "macros/tags.njk" import tagList %}
+                {{ tagList(tags) }}
+            </div>
+            <hr>
+            <div class="float-right">
+                <a href="#" class="btn btn-outline-secondary js-share" data-title="{{ title }}" data-text="Restaurants Zoetermeer" aria-label="Share this page">
+                    <i class="fa fa-share-alt"></i>
+                </a>
+            </div>
+            {{ content | safe }}
+            <hr>
+            <a href="https://github.com/disjfa/restaurants-zoetermeer/blob/master{{ page.inputPath | replace('./', '/') }}" class="btn btn-outline-secondary">
+                <i class="fa fa-edit"></i>
+                Iets op te merken?
+            </a>
+        </div>
+        <div class="col-12 col-lg-7 ">
+            <div class="map" id="map" data-name="{{ title }}" data-permalink="{{ page.url | url }}" data-latitude="{{ latitude }}" data-longtitude="{{ longtitude }}"></div>
+        </div>
+    </div>
+</div>
+{% include 'components/footer.njk' %}
+{%- for js in encore.app.js -%}
+    <script src="{{ js }}"></script>
+{%- endfor -%}
+</body>
+</html>

@@ -1,0 +1,20 @@
+---
+permalink: restaurants.json
+---
+
+{"restaurants": [
+{%- for p in collections.restaurant -%}
+    {
+    "name": "{{ p.data.title }}",
+    "permalink": "{{ p.url | url }}",
+    "image": "{{ p.data.image }}",
+    "latitude": "{{ p.data.latitude }}",
+    "longtitude": "{{ p.data.longtitude }}",
+    "tags": [
+    {%- for tag in p.data.tags -%}
+        {"name": "{{ tag | lower | replace(' ', '-') }}"}{% if false === loop.last %},{% endif %}
+    {%- endfor -%}
+    ]
+    }{% if false === loop.last %},{% endif %}
+{%- endfor -%}
+]}

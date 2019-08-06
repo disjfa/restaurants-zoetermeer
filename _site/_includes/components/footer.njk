@@ -1,0 +1,18 @@
+<footer class="bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-12 col-md-5 py-3">
+                <h5>Restaurants Zoetermeer</h5>
+                <a href="https://github.com/disjfa/restaurants-zoetermeer/issues" class="btn btn-outline-secondary">
+                    <i class="fab fa-github"></i>
+                    Opmerking, laat het weten?
+                </a>
+            </div>
+            <div class="col-12 col-md-7 py-3">
+                <h5>Tags</h5>
+                {% from "macros/tags.njk" import tagList %}
+                {{ tagList(collections.tagList, '#map') }}
+            </div>
+        </div>
+    </div>
+</footer>

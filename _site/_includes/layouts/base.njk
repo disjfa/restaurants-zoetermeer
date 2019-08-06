@@ -1,0 +1,14 @@
+<!doctype html>
+<html lang="nl">
+<head>
+    {% include 'components/head.njk' %}
+<body>
+{% include 'components/navbar.njk' %}
+{{ content | safe }}
+<br>
+{% include 'components/footer.njk' %}
+{%- for js in encore.app.js -%}
+    <script src="{{ js }}"></script>
+{%- endfor -%}
+</body>
+</html>
