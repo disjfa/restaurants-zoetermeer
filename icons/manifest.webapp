@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "name": "Restaurants Zoetermeer",
+  "description": "Restaurants Zoetermeer",
+  "icons": {
+    "60": "/restaurants-zoetermeer/icons/firefox_app_60x60.png",
+    "128": "/restaurants-zoetermeer/icons/firefox_app_128x128.png",
+    "512": "/restaurants-zoetermeer/icons/firefox_app_512x512.png"
+  },
+  "developer": {
+    "name": "disjfa",
+    "url": "https://disjfa.github.io/"
+  }
+}

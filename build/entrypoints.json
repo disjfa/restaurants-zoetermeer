@@ -1,0 +1,13 @@
+{
+  "entrypoints": {
+    "app": {
+      "js": [
+        "/restaurants-zoetermeer/build/runtime.b1b2d0ca.js",
+        "/restaurants-zoetermeer/build/app.854da9d1.js"
+      ],
+      "css": [
+        "/restaurants-zoetermeer/build/app.5af4588f.css"
+      ]
+    }
+  }
+}
