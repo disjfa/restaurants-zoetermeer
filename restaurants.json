@@ -7,13 +7,6 @@
     "longtitude": "4.493441",
     "tags": [{"name": "restaurant"},{"name": "brasserie"},{"name": "lunch"},{"name": "lunchroom"},{"name": "ontbijt"}]
     },{
-    "name": "Magnolia’s",
-    "permalink": "/restaurants-zoetermeer/restaurants/magnolias/",
-    "image": "/images/magnolias.jpg",
-    "latitude": "52.053495",
-    "longtitude": "4.439081",
-    "tags": [{"name": "restaurant"},{"name": "frans"}]
-    },{
     "name": "Restaurant La Copa",
     "permalink": "/restaurants-zoetermeer/restaurants/restaurant-la-copa/",
     "image": "/images/restaurant-la-copa.jpg",
@@ -27,20 +20,6 @@
     "latitude": "52.071751",
     "longtitude": "4.494172",
     "tags": [{"name": "restaurant"},{"name": "turks"}]
-    },{
-    "name": "Aziatisch Chinees Restaurant Jasmijn",
-    "permalink": "/restaurants-zoetermeer/restaurants/jasmijn/",
-    "image": "/images/jasmijn.gif",
-    "latitude": "52.060192",
-    "longtitude": "4.539715",
-    "tags": [{"name": "restaurant"},{"name": "chinees"},{"name": "indonesisch"},{"name": "taiwanees"}]
-    },{
-    "name": "Op de koffie bij Daan",
-    "permalink": "/restaurants-zoetermeer/restaurants/bij-daan/",
-    "image": "/images/bij-daan.png",
-    "latitude": "52.061826",
-    "longtitude": "4.492086",
-    "tags": [{"name": "restaurant"},{"name": "lunchroom"}]
     },{
     "name": "Tiberya Terra Dolfi",
     "permalink": "/restaurants-zoetermeer/restaurants/tiberya-terra-dolfi/",
@@ -69,13 +48,6 @@
     "latitude": "52.06724",
     "longtitude": "4.479244",
     "tags": [{"name": "restaurant"},{"name": "chinees"},{"name": "indisch"}]
-    },{
-    "name": "Happy Italy",
-    "permalink": "/restaurants-zoetermeer/restaurants/happy-italy/",
-    "image": "/images/happy-italy.jpg",
-    "latitude": "52.061236",
-    "longtitude": "4.493336",
-    "tags": [{"name": "restaurant"},{"name": "italiaans"},{"name": "pasta"},{"name": "pizzeria"}]
     },{
     "name": "BRUUT",
     "permalink": "/restaurants-zoetermeer/restaurants/bruut/",
@@ -126,13 +98,6 @@
     "longtitude": "4.46895",
     "tags": [{"name": "restaurant"},{"name": "brasserie"}]
     },{
-    "name": "Brasserie ‘Oh Die’",
-    "permalink": "/restaurants-zoetermeer/restaurants/brasseire-oh-die/",
-    "image": "",
-    "latitude": "52.055639",
-    "longtitude": "4.498505",
-    "tags": [{"name": "restaurant"},{"name": "brasserie"},{"name": "lunchroom"}]
-    },{
     "name": "Golden Garden",
     "permalink": "/restaurants-zoetermeer/restaurants/golden-garden/",
     "image": "/images/golden-garden.png",
@@ -168,13 +133,6 @@
     "longtitude": "4.483638",
     "tags": [{"name": "restaurant"},{"name": "indonesisch"}]
     },{
-    "name": "Ristorante Pizzeria Bella Torino",
-    "permalink": "/restaurants-zoetermeer/restaurants/ristorante-pizzeria-bella-torino/",
-    "image": "/images/ristorante-pizzeria-bella-torino.png",
-    "latitude": "52.055734",
-    "longtitude": "4.497918",
-    "tags": [{"name": "restaurant"},{"name": "italiaans"},{"name": "pizzeria"}]
-    },{
     "name": "Restaurant l’Elephant",
     "permalink": "/restaurants-zoetermeer/restaurants/restaurant-lelephant/",
     "image": "/images/restaurant-lelephant.jpg",
@@ -195,13 +153,6 @@
     "latitude": "52.062102",
     "longtitude": "4.494831",
     "tags": [{"name": "restaurant"},{"name": "tapas"}]
-    },{
-    "name": "Thai Thani",
-    "permalink": "/restaurants-zoetermeer/restaurants/thai-thani/",
-    "image": "/images/thai-thani.png",
-    "latitude": "52.056636",
-    "longtitude": "4.497782",
-    "tags": [{"name": "restaurant"},{"name": "thais"}]
     },{
     "name": "Turks restaurant Baran",
     "permalink": "/restaurants-zoetermeer/restaurants/turks-restaurant-baran/",
@@ -237,13 +188,6 @@
     "latitude": "52.089349",
     "longtitude": "4.505482",
     "tags": [{"name": "restaurant"},{"name": "frans"}]
-    },{
-    "name": "Restaurant Eazie",
-    "permalink": "/restaurants-zoetermeer/restaurants/restaurant-eazie/",
-    "image": "/images/restaurant-eazie.png",
-    "latitude": "52.061395",
-    "longtitude": "4.486993",
-    "tags": [{"name": "restaurant"},{"name": "chinees"},{"name": "thais"}]
     },{
     "name": "De Lekkere Winkel",
     "permalink": "/restaurants-zoetermeer/restaurants/de-lekkere-winkel/",
@@ -287,13 +231,6 @@
     "longtitude": "4.494401",
     "tags": [{"name": "restaurant"},{"name": "internationaal"}]
     },{
-    "name": "Restaurant De Witte Raaf",
-    "permalink": "/restaurants-zoetermeer/restaurants/restaurant-de-witte-raaf/",
-    "image": "/images/restaurant-de-witte-raaf.jpg",
-    "latitude": "52.0703",
-    "longtitude": "4.441613",
-    "tags": [{"name": "restaurant"},{"name": "iraans"},{"name": "perzische"}]
-    },{
     "name": "Woodstone Pizza and Wine",
     "permalink": "/restaurants-zoetermeer/restaurants/woodstone-pizza-and-wine/",
     "image": "/images/woodstone-pizza-and-wine.jpeg",
@@ -308,33 +245,12 @@
     "longtitude": "4.459155",
     "tags": [{"name": "restaurant"},{"name": "frans"}]
     },{
-    "name": "Pannenkoekenrestaurant Uilennest",
-    "permalink": "/restaurants-zoetermeer/restaurants/pannenkoekenrestaurant-uilennest/",
-    "image": "/images/pannenkoekenrestaurant-uilennest.jpg",
-    "latitude": "52.061641",
-    "longtitude": "4.469977",
-    "tags": [{"name": "restaurant"},{"name": "pannenkoeken"}]
-    },{
-    "name": "Sportsbar Hotwings",
-    "permalink": "/restaurants-zoetermeer/restaurants/sportsbar-hotwings/",
-    "image": "/images/sportsbar-hotwings.jpg",
-    "latitude": "52.052769",
-    "longtitude": "4.520984",
-    "tags": [{"name": "restaurant"},{"name": "frans"},{"name": "grill"}]
-    },{
     "name": "English pub Queen of hearts",
     "permalink": "/restaurants-zoetermeer/restaurants/english-pub-queen-of-hearts/",
     "image": "/images/english-pub-queen-of-hearts.jpg",
     "latitude": "52.061277",
     "longtitude": "4.493111",
     "tags": [{"name": "restaurant"},{"name": "eetcafe"}]
-    },{
-    "name": "Hoeve Kromwijk",
-    "permalink": "/restaurants-zoetermeer/restaurants/hoeve-kromwijk/",
-    "image": "",
-    "latitude": "52.064457",
-    "longtitude": "4.45305",
-    "tags": [{"name": "restaurant"},{"name": "frans"},{"name": "mediterraans"}]
     },{
     "name": "Bonjour Vietnam",
     "permalink": "/restaurants-zoetermeer/restaurants/bonjour-vietnam/",
@@ -357,33 +273,12 @@
     "longtitude": "4.497377",
     "tags": [{"name": "restaurant"},{"name": "grieks"}]
     },{
-    "name": "The Old Blind Mole",
-    "permalink": "/restaurants-zoetermeer/restaurants/the-old-blind-mole/",
-    "image": "/images/the-old-blind-mole.png",
-    "latitude": "52.055796",
-    "longtitude": "4.498225",
-    "tags": [{"name": "restaurant"},{"name": "eetcafe"}]
-    },{
     "name": "Grillroom Jerusalem",
     "permalink": "/restaurants-zoetermeer/restaurants/grillroom-jerusalem/",
     "image": "/images/grillroom-jerusalem.png",
     "latitude": "52.060891",
     "longtitude": "4.483048",
     "tags": [{"name": "restaurant"},{"name": "grill"},{"name": "shoarma"}]
-    },{
-    "name": "Grandcafé Ilili",
-    "permalink": "/restaurants-zoetermeer/restaurants/grandcafe-ilili/",
-    "image": "/images/grandcafe-ilili.jpg",
-    "latitude": "52.052769",
-    "longtitude": "4.520984",
-    "tags": [{"name": "restaurant"},{"name": "frans"}]
-    },{
-    "name": "Pavarotti",
-    "permalink": "/restaurants-zoetermeer/restaurants/pavarotti/",
-    "image": "/images/pavarotti.png",
-    "latitude": "52.061007",
-    "longtitude": "4.49268",
-    "tags": [{"name": "restaurant"},{"name": "italiaans"}]
     },{
     "name": "Pub-eetcafé The Old Pal",
     "permalink": "/restaurants-zoetermeer/restaurants/pub-eetcafe-the-old-pal/",
@@ -420,20 +315,6 @@
     "longtitude": "4.530658",
     "tags": [{"name": "restaurant"},{"name": "grill"}]
     },{
-    "name": "India Palace",
-    "permalink": "/restaurants-zoetermeer/restaurants/india-palace/",
-    "image": "/images/india-palace.jpg",
-    "latitude": "52.032447",
-    "longtitude": "4.487509",
-    "tags": [{"name": "restaurant"},{"name": "indisch"},{"name": "pakistaans"}]
-    },{
-    "name": "Class by Jofel",
-    "permalink": "/restaurants-zoetermeer/restaurants/class-by-jofel/",
-    "image": "/images/class-by-jofel.jpeg",
-    "latitude": "52.055699",
-    "longtitude": "4.499143",
-    "tags": [{"name": "restaurant"}]
-    },{
     "name": "King’s Palace",
     "permalink": "/restaurants-zoetermeer/restaurants/kings-palace/",
     "image": "/images/kings-palace.png",
@@ -454,13 +335,6 @@
     "latitude": "52.055558",
     "longtitude": "4.49795",
     "tags": [{"name": "restaurant"},{"name": "lunchroom"}]
-    },{
-    "name": "Restaurant Bo &amp; Ro",
-    "permalink": "/restaurants-zoetermeer/restaurants/restaurant-bo-ro/",
-    "image": "/images/restaurant-bo-ro.png",
-    "latitude": "52.059321",
-    "longtitude": "4.494082",
-    "tags": [{"name": "restaurant"},{"name": "frans"},{"name": "mediterraans"}]
     },{
     "name": "Brasserie Napoleon",
     "permalink": "/restaurants-zoetermeer/restaurants/brasserie-napoleon/",
@@ -511,13 +385,6 @@
     "longtitude": "4.453372",
     "tags": [{"name": "restaurant"},{"name": "frans"},{"name": "lunchroom"},{"name": "pannenkoeken"},{"name": "pizzeria"},{"name": "plaatgrill"}]
     },{
-    "name": "Vrienden van de Burgemeester",
-    "permalink": "/restaurants-zoetermeer/restaurants/vrienden-van-de-burgemeester/",
-    "image": "/images/vrienden-van-de-burgemeester.png",
-    "latitude": "52.061259",
-    "longtitude": "4.492763",
-    "tags": [{"name": "restaurant"},{"name": "frans"},{"name": "grill"},{"name": "lunch"}]
-    },{
     "name": "Dorpseind",
     "permalink": "/restaurants-zoetermeer/restaurants/dorpseind/",
     "image": "/images/dorpseind.png",
@@ -525,33 +392,12 @@
     "longtitude": "4.500623",
     "tags": [{"name": "restaurant"},{"name": "lunchroom"}]
     },{
-    "name": "Di Niente",
-    "permalink": "/restaurants-zoetermeer/restaurants/di-niente/",
-    "image": "/images/di-niente.jpg",
-    "latitude": "52.055817",
-    "longtitude": "4.498873",
-    "tags": [{"name": "restaurant"},{"name": "italiaans"}]
-    },{
     "name": "Eetcafé De Leyens",
     "permalink": "/restaurants-zoetermeer/restaurants/eetcafe-de-leyens/",
     "image": "/images/eetcafe-de-leyens.jpg",
     "latitude": "52.07232",
     "longtitude": "4.495736",
     "tags": [{"name": "restaurant"},{"name": "eetcafe"}]
-    },{
-    "name": "Grieks Restaurant Olivia",
-    "permalink": "/restaurants-zoetermeer/restaurants/grieks-restaurant-olivia-binnenkort-geopend/",
-    "image": "/images/grieks-restaurant-olivia-binnenkort-geopend.png",
-    "latitude": "52.06",
-    "longtitude": "4.539381",
-    "tags": [{"name": "restaurant"},{"name": "grieks"},{"name": "mediterraans"}]
-    },{
-    "name": "Happy Moose",
-    "permalink": "/restaurants-zoetermeer/restaurants/happy-moose/",
-    "image": "/images/happy-moose.png",
-    "latitude": "52.079358",
-    "longtitude": "4.509554",
-    "tags": [{"name": "restaurant"},{"name": "eetcafe"},{"name": "frans"}]
     },{
     "name": "Restaurant de Sniep",
     "permalink": "/restaurants-zoetermeer/restaurants/restaurant-de-sniep/",
@@ -573,13 +419,6 @@
     "latitude": "52.06133",
     "longtitude": "4.489526",
     "tags": [{"name": "restaurant"},{"name": "lunchroom"}]
-    },{
-    "name": "Mamma Maria",
-    "permalink": "/restaurants-zoetermeer/restaurants/mamma-maria/",
-    "image": "/images/mamma-maria.jpg",
-    "latitude": "52.062303",
-    "longtitude": "4.493137",
-    "tags": [{"name": "restaurant"},{"name": "italiaans"},{"name": "pizzeria"}]
     },{
     "name": "SoSo Restaurant",
     "permalink": "/restaurants-zoetermeer/restaurants/soso-restaurant/",
@@ -609,20 +448,6 @@
     "longtitude": "4.524557",
     "tags": [{"name": "restaurant"},{"name": "lunchroom"}]
     },{
-    "name": "Bar Brasserie Bogatti’s",
-    "permalink": "/restaurants-zoetermeer/restaurants/bar-brasserie-bogattis/",
-    "image": "/images/bar-brasserie-bogattis.jpg",
-    "latitude": "52.048994",
-    "longtitude": "4.478595",
-    "tags": [{"name": "restaurant"},{"name": "brasserie"},{"name": "internationaal"}]
-    },{
-    "name": "Doppio Espresso",
-    "permalink": "/restaurants-zoetermeer/restaurants/doppio-espresso/",
-    "image": "/images/doppio-espresso.jpg",
-    "latitude": "52.061275",
-    "longtitude": "4.490079",
-    "tags": [{"name": "restaurant"},{"name": "lunchroom"}]
-    },{
     "name": "STAGE kitchen &amp; café",
     "permalink": "/restaurants-zoetermeer/restaurants/stage-kitchen-cafe/",
     "image": "/images/stage-kitchen-cafe.jpg",
@@ -636,4 +461,179 @@
     "latitude": "52.069509",
     "longtitude": "4.457942",
     "tags": [{"name": "restaurant"},{"name": "fondue"},{"name": "hollands"}]
+    },{
+    "name": "Happy Italy",
+    "permalink": "/restaurants-zoetermeer/restaurants/happy-italy/",
+    "image": "/images/happy-italy.jpg",
+    "latitude": "52.061236",
+    "longtitude": "4.493336",
+    "tags": [{"name": "restaurant"},{"name": "italiaans"},{"name": "pasta"},{"name": "pizzeria"}]
+    },{
+    "name": "Magnolia’s",
+    "permalink": "/restaurants-zoetermeer/restaurants/magnolias/",
+    "image": "/images/magnolias.jpg",
+    "latitude": "52.053495",
+    "longtitude": "4.439081",
+    "tags": [{"name": "restaurant"},{"name": "frans"}]
+    },{
+    "name": "Op de koffie bij Daan",
+    "permalink": "/restaurants-zoetermeer/restaurants/bij-daan/",
+    "image": "/images/bij-daan.png",
+    "latitude": "52.061826",
+    "longtitude": "4.492086",
+    "tags": [{"name": "restaurant"},{"name": "lunchroom"}]
+    },{
+    "name": "Aziatisch Chinees Restaurant Jasmijn",
+    "permalink": "/restaurants-zoetermeer/restaurants/jasmijn/",
+    "image": "/images/jasmijn.gif",
+    "latitude": "52.060192",
+    "longtitude": "4.539715",
+    "tags": [{"name": "restaurant"},{"name": "chinees"},{"name": "indonesisch"},{"name": "taiwanees"}]
+    },{
+    "name": "Brasserie ‘Oh Die’",
+    "permalink": "/restaurants-zoetermeer/restaurants/brasseire-oh-die/",
+    "image": "",
+    "latitude": "52.055639",
+    "longtitude": "4.498505",
+    "tags": [{"name": "restaurant"},{"name": "brasserie"},{"name": "lunchroom"}]
+    },{
+    "name": "Ristorante Pizzeria Bella Torino",
+    "permalink": "/restaurants-zoetermeer/restaurants/ristorante-pizzeria-bella-torino/",
+    "image": "/images/ristorante-pizzeria-bella-torino.png",
+    "latitude": "52.055734",
+    "longtitude": "4.497918",
+    "tags": [{"name": "restaurant"},{"name": "italiaans"},{"name": "pizzeria"}]
+    },{
+    "name": "Thai Thani",
+    "permalink": "/restaurants-zoetermeer/restaurants/thai-thani/",
+    "image": "/images/thai-thani.png",
+    "latitude": "52.056636",
+    "longtitude": "4.497782",
+    "tags": [{"name": "restaurant"},{"name": "thais"}]
+    },{
+    "name": "Restaurant Eazie",
+    "permalink": "/restaurants-zoetermeer/restaurants/restaurant-eazie/",
+    "image": "/images/restaurant-eazie.png",
+    "latitude": "52.061395",
+    "longtitude": "4.486993",
+    "tags": [{"name": "restaurant"},{"name": "chinees"},{"name": "thais"}]
+    },{
+    "name": "Restaurant De Witte Raaf",
+    "permalink": "/restaurants-zoetermeer/restaurants/restaurant-de-witte-raaf/",
+    "image": "/images/restaurant-de-witte-raaf.jpg",
+    "latitude": "52.0703",
+    "longtitude": "4.441613",
+    "tags": [{"name": "restaurant"},{"name": "iraans"},{"name": "perzische"}]
+    },{
+    "name": "Pannenkoekenrestaurant Uilennest",
+    "permalink": "/restaurants-zoetermeer/restaurants/pannenkoekenrestaurant-uilennest/",
+    "image": "/images/pannenkoekenrestaurant-uilennest.jpg",
+    "latitude": "52.061641",
+    "longtitude": "4.469977",
+    "tags": [{"name": "restaurant"},{"name": "pannenkoeken"}]
+    },{
+    "name": "Sportsbar Hotwings",
+    "permalink": "/restaurants-zoetermeer/restaurants/sportsbar-hotwings/",
+    "image": "/images/sportsbar-hotwings.jpg",
+    "latitude": "52.052769",
+    "longtitude": "4.520984",
+    "tags": [{"name": "restaurant"},{"name": "frans"},{"name": "grill"}]
+    },{
+    "name": "Hoeve Kromwijk",
+    "permalink": "/restaurants-zoetermeer/restaurants/hoeve-kromwijk/",
+    "image": "",
+    "latitude": "52.064457",
+    "longtitude": "4.45305",
+    "tags": [{"name": "restaurant"},{"name": "frans"},{"name": "mediterraans"}]
+    },{
+    "name": "The Old Blind Mole",
+    "permalink": "/restaurants-zoetermeer/restaurants/the-old-blind-mole/",
+    "image": "/images/the-old-blind-mole.png",
+    "latitude": "52.055796",
+    "longtitude": "4.498225",
+    "tags": [{"name": "restaurant"},{"name": "eetcafe"}]
+    },{
+    "name": "Grandcafé Ilili",
+    "permalink": "/restaurants-zoetermeer/restaurants/grandcafe-ilili/",
+    "image": "/images/grandcafe-ilili.jpg",
+    "latitude": "52.052769",
+    "longtitude": "4.520984",
+    "tags": [{"name": "restaurant"},{"name": "frans"}]
+    },{
+    "name": "Pavarotti",
+    "permalink": "/restaurants-zoetermeer/restaurants/pavarotti/",
+    "image": "/images/pavarotti.png",
+    "latitude": "52.061007",
+    "longtitude": "4.49268",
+    "tags": [{"name": "restaurant"},{"name": "italiaans"}]
+    },{
+    "name": "India Palace",
+    "permalink": "/restaurants-zoetermeer/restaurants/india-palace/",
+    "image": "/images/india-palace.jpg",
+    "latitude": "52.032447",
+    "longtitude": "4.487509",
+    "tags": [{"name": "restaurant"},{"name": "indisch"},{"name": "pakistaans"}]
+    },{
+    "name": "Class by Jofel",
+    "permalink": "/restaurants-zoetermeer/restaurants/class-by-jofel/",
+    "image": "/images/class-by-jofel.jpeg",
+    "latitude": "52.055699",
+    "longtitude": "4.499143",
+    "tags": [{"name": "restaurant"}]
+    },{
+    "name": "Restaurant Bo &amp; Ro",
+    "permalink": "/restaurants-zoetermeer/restaurants/restaurant-bo-ro/",
+    "image": "/images/restaurant-bo-ro.png",
+    "latitude": "52.059321",
+    "longtitude": "4.494082",
+    "tags": [{"name": "restaurant"},{"name": "frans"},{"name": "mediterraans"}]
+    },{
+    "name": "Vrienden van de Burgemeester",
+    "permalink": "/restaurants-zoetermeer/restaurants/vrienden-van-de-burgemeester/",
+    "image": "/images/vrienden-van-de-burgemeester.png",
+    "latitude": "52.061259",
+    "longtitude": "4.492763",
+    "tags": [{"name": "restaurant"},{"name": "frans"},{"name": "grill"},{"name": "lunch"}]
+    },{
+    "name": "Di Niente",
+    "permalink": "/restaurants-zoetermeer/restaurants/di-niente/",
+    "image": "/images/di-niente.jpg",
+    "latitude": "52.055817",
+    "longtitude": "4.498873",
+    "tags": [{"name": "restaurant"},{"name": "italiaans"}]
+    },{
+    "name": "Grieks Restaurant Olivia",
+    "permalink": "/restaurants-zoetermeer/restaurants/grieks-restaurant-olivia/",
+    "image": "/images/grieks-restaurant-olivia-binnenkort-geopend.png",
+    "latitude": "52.06",
+    "longtitude": "4.539381",
+    "tags": [{"name": "restaurant"},{"name": "grieks"},{"name": "mediterraans"}]
+    },{
+    "name": "Happy Moose",
+    "permalink": "/restaurants-zoetermeer/restaurants/happy-moose/",
+    "image": "/images/happy-moose.png",
+    "latitude": "52.079358",
+    "longtitude": "4.509554",
+    "tags": [{"name": "restaurant"},{"name": "eetcafe"},{"name": "frans"}]
+    },{
+    "name": "Mamma Maria",
+    "permalink": "/restaurants-zoetermeer/restaurants/mamma-maria/",
+    "image": "/images/mamma-maria.jpg",
+    "latitude": "52.062303",
+    "longtitude": "4.493137",
+    "tags": [{"name": "restaurant"},{"name": "italiaans"},{"name": "pizzeria"}]
+    },{
+    "name": "Bar Brasserie Bogatti’s",
+    "permalink": "/restaurants-zoetermeer/restaurants/bar-brasserie-bogattis/",
+    "image": "/images/bar-brasserie-bogattis.jpg",
+    "latitude": "52.048994",
+    "longtitude": "4.478595",
+    "tags": [{"name": "restaurant"},{"name": "brasserie"},{"name": "internationaal"}]
+    },{
+    "name": "Doppio Espresso",
+    "permalink": "/restaurants-zoetermeer/restaurants/doppio-espresso/",
+    "image": "/images/doppio-espresso.jpg",
+    "latitude": "52.061275",
+    "longtitude": "4.490079",
+    "tags": [{"name": "restaurant"},{"name": "lunchroom"}]
     }]}
