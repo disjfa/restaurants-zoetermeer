@@ -483,13 +483,6 @@
     "longtitude": "4.492086",
     "tags": [{"name": "restaurant"},{"name": "lunchroom"}]
     },{
-    "name": "Aziatisch Chinees Restaurant Jasmijn",
-    "permalink": "/restaurants-zoetermeer/restaurants/jasmijn/",
-    "image": "/images/jasmijn.gif",
-    "latitude": "52.060192",
-    "longtitude": "4.539715",
-    "tags": [{"name": "restaurant"},{"name": "chinees"},{"name": "indonesisch"},{"name": "taiwanees"}]
-    },{
     "name": "Brasserie ‘Oh Die’",
     "permalink": "/restaurants-zoetermeer/restaurants/brasseire-oh-die/",
     "image": "",
@@ -636,4 +629,11 @@
     "latitude": "52.061275",
     "longtitude": "4.490079",
     "tags": [{"name": "restaurant"},{"name": "lunchroom"}]
+    },{
+    "name": "Aziatisch Chinees Restaurant Jasmijn",
+    "permalink": "/restaurants-zoetermeer/restaurants/jasmijn/",
+    "image": "/images/jasmijn.gif",
+    "latitude": "52.060192",
+    "longtitude": "4.539715",
+    "tags": [{"name": "restaurant"},{"name": "chinees"},{"name": "indonesisch"},{"name": "taiwanees"}]
     }]}
