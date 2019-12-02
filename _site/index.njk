@@ -4,35 +4,42 @@ title: Home
 tags:
 - page
 ---
-<div class="ryoko ryoko-70" style="background-image: url({{ '/images/header.jpg' | url }})">
-    <div class="ryoko-shade ryoko-body">
-        <div class="ryoko-faded text-light text-center p-3">
-            <h1>Restaurants Zoetermeer</h1>
-            <br>
-            <div>
-                <a href="{{ '/restaurants.html' | url }}" class="btn btn-primary">
-                    <i class="fa fa-utensils"></i>
-                    Bekijk restaurants
-                </a>
-            </div>
-            <br>
-        </div>
+
+<div class="map" id="map" data-src="{{ '/restaurants.json' | url }}">
+</div>
+
+<div class="bg-light">
+    <div class="container py-3">
+        <h3>Tags</h3>
+        {% from "macros/tags.njk" import tagList %}
+        {{ tagList(collections.tagList) }}
     </div>
 </div>
 <div class="container py-3">
-    <h1>Restaurants Zoetermeer</h1>
-    <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Adipisci architecto at consectetur cumque deserunt
-        dolorum facilis fuga id illo inventore nemo nisi numquam odio officiis quae, quibusdam quo sunt veritatis.
-    </p>
-    <p>
-        Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ab accusamus aperiam asperiores aut debitis, ea eos
-        eveniet in iure iusto, laudantium magni modi omnis perferendis quis unde, voluptate. Minima, sunt.
-    </p>
+    <h1>Restaurants</h1>
     <a href="#" class="btn btn-outline-secondary js-share" data-title="Restaurants" data-text="Restaurants Zoetermeer" aria-label="Share this page">
         <i class="fa fa-share-alt"></i> Deel deze pagina
     </a>
-</div>
-<div class="container text-center">
-    <i class="fa fa-utensils fa-7x text-primary"></i>
+    <hr>
+    <div class="row">
+        {%- for p in collections.restaurant -%}
+            <div class="col-md-4 py-3">
+                <a href="{{ p.url | url }}" class="d-block">
+                    <div class="embed-responsive embed-responsive-16by9">
+                        {% if p.data.image %}
+                            <div class="embed-responsive-item img-contain" style="background-image: url({{ p.data.image | url }});"></div>
+                        {% else %}
+                            <div class="embed-responsive-item img-contain bg-light"></div>
+                        {% endif %}
+                    </div>
+                </a>
+                <hr>
+                <h4 class="entry-title">
+                    {{ p.data.title }}
+                </h4>
+                {% from "macros/tags.njk" import tagList %}
+                {{ tagList(p.data.tags, '#map') }}
+            </div>
+        {%- endfor -%}
+    </div>
 </div>
