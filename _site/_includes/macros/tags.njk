@@ -2,7 +2,7 @@
     {% for tag in tags %}
         {% if tag == 'restaurant' %}
         {% else %}
-            <a href="{{ ('/restaurants.html#tag-' + tag.replace(' ', '-')) | url | lower }}" class="badge badge-secondary{% if scrollId %} js-scroll-into-view{% endif %}"{% if scrollId %} data-target="{{ scrollId }}"{% endif %}>
+            <a href="{{ ('/index.html#tag-' + tag.replace(' ', '-')) | url | lower }}" class="badge badge-secondary{% if scrollId %} js-scroll-into-view{% endif %}"{% if scrollId %} data-target="{{ scrollId }}"{% endif %}>
                 {{ tag | lower }}
             </a>
         {% endif %}
